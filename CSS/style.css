@@ -1,0 +1,20 @@
+body{
+    min-height: 100vh;
+    background: rgb(240, 222, 204);
+}
+main{
+    background: #fff;
+    border-radius: 30px;
+}
+section{
+    height: 80vh;
+}
+#item-description-section{
+    background: #fff;
+    border-radius: 30px;
+}
+
+#item-images-section{
+    background:#2A2A2A;
+    border-radius: 30px;
+}
